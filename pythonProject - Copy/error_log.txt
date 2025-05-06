@@ -1,5 +1,0 @@
-2024-09-30 12:18:25 - AttributeError: 'Smartphone' object has no attribute 'battery_level'
-2024-10-07 12:03:47 - AttributeError: 'Smartphone' object has no attribute 'battery_level'
-2024-10-07 12:18:57 - AttributeError: 'Smartphone' object has no attribute 'battery_level'
-2024-10-07 12:21:51 - AttributeError: 'Smartphone' object has no attribute 'battery_level'
-2024-10-19 12:01:21 - AttributeError: 'LeafDevice' object has no attribute 'log_activity'
